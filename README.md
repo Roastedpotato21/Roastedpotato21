@@ -14,9 +14,19 @@ I am a passionate undergraduate student from an IT background, currently focused
 I’ve already contributed to **alumni websites** and actively participated in the **open-source ecosystem**, gaining hands-on experience in development workflows.  
   
 ---  
-  
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Roastedpotato21&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Roastedpotato21&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roastedpotato21&layout=compact&theme=tokyonight)
+ ## 📈 GitHub Activity Graph
+
+[![Siri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roastedpotato21&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Roastedpotato21)
+
 ## 🚀 What I Love  
-  
+
 - 🤖 Exploring new technologies    
 - 💡 Participating in hackathons    
 - 🚀 Turning ideas into real projects    
