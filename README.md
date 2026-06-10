@@ -28,13 +28,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Roastedpotato21&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Roastedpotato21&layout=compact&theme=tokyonight)
- ## 📈 GitHub Activity Graph
-
-[![Siri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roastedpotato21&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Roastedpotato21)
-
  
- ns**  
-  
 ---  
 ## 🌱 GitHub Activity Graph
 
