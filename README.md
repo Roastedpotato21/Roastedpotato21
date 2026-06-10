@@ -36,12 +36,12 @@
  ns**  
   
 ---  
-  
- 
----  
- 
-  
-   
+## 🌱 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roastedpotato21&bg_color=ffffff&color=228B22&line=32CD32&point=006400&area=true&hide_border=true" />
+</p>
+
 ## 🤝 Let’s Connect  
   
 ✨ I love sharing my learning journey and connecting with like-minded people!  
