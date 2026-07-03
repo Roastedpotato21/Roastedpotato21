@@ -2,7 +2,7 @@
 
 🎓 B.Tech Information Technology Student  
 💻 Full-Stack Developer  
-🤖 AI Enthusiast  
+🤖 AI Enthusiast 
 🌱 Open Source Contributor (GSSOC & SSOC)
   
 ---  
