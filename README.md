@@ -2,14 +2,13 @@
 <!--                     HERO BANNER                       -->
 <!-- ===================================================== -->
 
-<p align="center">
+ <p align="center">
   <img
-    src="assets/github-banner.png"
-    alt="RoastedPotato21 Developer Banner"
+    src="https://raw.githubusercontent.com/Roastedpotato21/Roastedpotato21/main/banner.png"
+    alt="Roastedpotato21 Developer Banner"
     width="100%"
   />
 </p>
-
 <!-- ===================================================== -->
 <!--                    SOCIAL LINKS                       -->
 <!-- ===================================================== -->
