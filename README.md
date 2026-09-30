@@ -6,6 +6,7 @@
   <img
     src="assets/github-banner.png"
     alt="RoastedPotato21 Developer Banner"
+    https://github.com/Roastedpotato21/Roastedpotato21/blob/main/Screenshot%202026-09-25%20220140.png
     width="100%"
   />
 </p>
