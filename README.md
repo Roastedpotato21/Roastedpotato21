@@ -256,7 +256,6 @@ VITS, Deshmukhi
 
 <p align="center">
   <img src="./assets/gssoc/gssoc-badge-role_contributor.png" width="150" />
-  <img src="./assets/gssoc/gssoc-badge-bounty_hunter.png" width="150" />
   <img src="./assets/gssoc/gssoc-badge-point_scorer.png" width="150" />
   <img src="./assets/gssoc/gssoc-badge-profile_complete.png" width="150" />
 </p>
