@@ -308,8 +308,5 @@ VITS, Deshmukhi
 - ☐ Participating in upcoming hackathons
 
 ```text
-Building a better version of myself...
-
-████████░░  80%
-
+ 
 Build → Learn → Ship → Improve → Repeat
